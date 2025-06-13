@@ -350,5 +350,5 @@ if __name__ == "__main__":
     
     plt.tight_layout()
     plt.savefig('loss_accuracy_plot.png')
-    plt.close()
+    plt.show()
 
